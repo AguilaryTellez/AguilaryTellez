@@ -79,3 +79,16 @@ nav ul li:hover {
  float: left;
  margin-top: 80px;
 }
+
+.what {
+  
+  right:5px;
+  height: 60px;
+}
+
+circle {
+  fill: #25d366;
+}
+path {
+  fill: #fff;
+}
